@@ -26,3 +26,7 @@ npm install selenium-webdriver
 
 3. Run the Script
 node index.js
+
+## 🎥 Demo Video
+
+[Click here to download and watch the Selenium script in action](https://github.com/SkandMishraDev/Assignment-1/blob/main/media/selenium-demo.mp4)
